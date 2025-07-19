@@ -3,8 +3,7 @@
 This repository contains the code and datasets for the paper  
 “Misspecifying non-compensatory as compensatory IRT: analysis of estimated skills and variance”  
 Tamano, H., Hino, H., & Mochihashi, D. (2025). *Behaviormetrika*.  
-Paper: [https://link.springer.com/article/10.1007/s41237-025-00260-x](https://link.springer.com/article/10.1007/s41237-025-00260-x)  
-DOI: [10.1007/s41237-025-00260-x](https://doi.org/10.1007/s41237-025-00260-x)
+[Paper](https://rdcu.be/euZj4), [DOI](https://doi.org/10.1007/s41237-025-00260-x)
 
 
 
